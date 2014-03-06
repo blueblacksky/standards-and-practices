@@ -196,7 +196,7 @@ Format:
 | Matt Jones | [Marzipan](https://github.com/Marzipan) ||
 | Matt Kovars | [akovaski](https://github.com/akovaski) ||
 | Matt Lancaster | [lank81](https://github.com/lank81) ||
-| Matthew Young | [blueblacksky](https://github.com/blueblacksky) || Looking for a good open source to contribute too. I feel fairly language agnostic
+| Matthew Young | [blueblacksky](https://github.com/blueblacksky) || Looking for a good open source to contribute too. I feel fairly language agnostic. |
 | Matthias Wheelhouse | [Tunacrackers](https://github.com/tunacrackers) ||
 | Max S | [Vutpa](https://github.com/Vutpa) | Highschool Student wanting to wet my feet in programming |
 | Maya Osbourne | [mayaosbourne](https://github.com/mayaosbourne) | Computer Science student. Proficient in Java with some C, Assembly, HTML, CSS, SQL, and Python experience. |
